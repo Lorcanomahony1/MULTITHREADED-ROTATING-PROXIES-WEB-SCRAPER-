@@ -13,7 +13,7 @@ def timer(name, delay, repeat):
 	print("Timer: " + name + "Complete")
 
 def thesecondfunction():
-	print("I'm the second function motherfucker")
+	print("I'm the second function")
 	time.sleep(1)
 	print("yep yep yep")
 
