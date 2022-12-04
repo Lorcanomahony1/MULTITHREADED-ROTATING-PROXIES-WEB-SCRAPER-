@@ -17,7 +17,7 @@ import traceback
 url = "http://www.galway-ireland.ie/business-galway.htm"
 list_of_links = []
 list_of_emails = []
-substrings = ["Dancing","Childcare","Gardai","Lakes"]
+substrings = ["Barista","Restaurant","Gardai","Lakes"]
 
 
 response = requests.get(url)
