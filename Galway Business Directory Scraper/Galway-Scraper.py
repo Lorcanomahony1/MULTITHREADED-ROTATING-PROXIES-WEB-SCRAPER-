@@ -20,7 +20,7 @@ proxy = {"http" "103.216.82.213:6667"}
 
 list_of_links = []
 list_of_emails = []
-substrings = ["Dancing","Childcare","Gardai","Lakes"]
+substrings = ["5tr4","443","35try","Lakes"]
 
 
 url = "http://www.galway-ireland.ie/business-galway.htm"
